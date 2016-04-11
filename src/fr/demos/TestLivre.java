@@ -30,6 +30,7 @@ finally {
 	
 	catch (NullPointerException ex) {
 		System.out.print(ex.getMessage());
+		System.out.print("test git");
 	}
 	
 		
